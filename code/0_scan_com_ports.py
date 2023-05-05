@@ -9,4 +9,4 @@ from serial.tools import list_ports
 port_data = list_ports.comports()
 for port, desc, hwid in sorted(port_data):
     print(port)
-    print(desc)    
+    print(desc)
