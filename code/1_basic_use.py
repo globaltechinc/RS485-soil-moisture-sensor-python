@@ -8,7 +8,7 @@
 import serial
 
 # Construct (and open) the serial connection
-# Note that you will have to use the correct port, see scan_ports.py
+# Note that you will have to use the correct port, see 0_scan_com_ports.py
 
 ser = serial.Serial(
     port='COM5',
