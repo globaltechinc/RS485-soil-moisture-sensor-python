@@ -1,5 +1,7 @@
 # Python communication with a Seeed Studio RS485 Soil Moisture & Temperture Sensor
 
+[Global Technology Connection, Inc.](http://www.globaltechinc.com)
+
 [<img alt="GTC Logo" width="100px" src="/images/gtc_logo.png" />](http://globaltechinc.com)
 
 
