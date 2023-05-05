@@ -15,7 +15,7 @@ This code was developed for the [Seeed Studio Industrial Soil Moisture & Tempera
 
 Note that the wiring is as follows:
 
-<img alt="wire diagram" width="300px" src="/images/wiring_diagram.png" />
+<img alt="wire diagram" width="500px" src="/images/wiring_diagram.png" />
 
 
 **USB to RS485**
@@ -26,3 +26,9 @@ An adapater is required to connect a RS485 device to a computer. I'm using the f
 
 ## Software
 
+In the code folder you can find:
+- [0_scan_com_ports.py](/code/0_scan_com_ports.py): A python script that will scan for COM ports and list them. You can use this to figure out the location and name of the port to using when getting the probe reading.
+
+- [1_basic_use.py](/code/1_basic_use.py): A python script to get data from the soil sensor. It gets only one reading, and converts the values to their standard units.
+
+- [interactive_notebook_for_soil_probe.ipynb](/code/interactive_notebook_for_soil_probe.ipynb): A Jupyter Notebook to interactively understand and debug your code.
