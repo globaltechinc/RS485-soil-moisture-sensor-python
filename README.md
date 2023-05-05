@@ -11,3 +11,4 @@ This repository shows how to read data from an industrial soil moisture and temp
 
 This code was developed for the [Seeed Studio Industrial Soil Moisture & Temperature & EC Sensor MODBUS-RTU RS485 (S-Soil MTEC-02A)](https://www.seeedstudio.com/RS485-Soil-Moisture-Temperature-EC-Sensor-S-Soil-MTEC-02-p-4633.html). 
 
+[<img alt="soil probe" width="200px" src="/images/moisture_sensor.PNG" />](https://www.seeedstudio.com/RS485-Soil-Moisture-Temperature-EC-Sensor-S-Soil-MTEC-02-p-4633.html)
