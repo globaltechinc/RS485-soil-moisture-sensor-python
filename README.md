@@ -28,9 +28,9 @@ An adapater is required to connect a RS485 device to a computer. I'm using the f
 
 ## Software
 
-In the [code folder](/code/) you can find:
-- [0_scan_com_ports.py](/code/0_scan_com_ports.py): A python script that will scan for COM ports and list them. You can use this to figure out the location and name of the port to using when getting the probe reading.
+In the [src folder](/src/) you can find:
+- [0_scan_com_ports.py](/src/0_scan_com_ports.py): A python script that will scan for COM ports and list them. You can use this to figure out the location and name of the port to using when getting the probe reading.
 
-- [1_basic_use.py](/code/1_basic_use.py): A python script to get data from the soil sensor. It gets only one reading, and converts the values to their standard units.
+- [1_basic_use.py](/src/1_basic_use.py): A python script to get data from the soil sensor. It gets only one reading, and converts the values to their standard units.
 
-- [interactive_notebook_for_soil_probe.ipynb](/code/interactive_notebook_for_soil_probe.ipynb): A Jupyter Notebook to interactively understand and debug your code.
+- [interactive_notebook_for_soil_probe.ipynb](/src/interactive_notebook_for_soil_probe.ipynb): A Jupyter Notebook to interactively understand and debug your code.
