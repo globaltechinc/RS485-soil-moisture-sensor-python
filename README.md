@@ -1,4 +1,4 @@
-# Python communication with a Seeed Studio RS485 Soil Moisture & Temperture Sensor
+# Python communication with a Seeed Studio RS485 Soil Moisture & Temperature Sensor
 
 [Global Technology Connection, Inc.](http://www.globaltechinc.com)
 
